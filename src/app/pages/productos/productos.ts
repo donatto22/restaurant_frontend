@@ -1,12 +1,12 @@
 import { Component } from '@angular/core'
 
 @Component({
-  selector: 'app-home',
+  selector: 'productos',
   imports: [],
-  templateUrl: './pedidos.html',
-  styleUrl: './pedidos.css'
+  templateUrl: './productos.html',
+  styleUrl: './productos.css'
 })
 
-export class Pedidos {
+export class Productos {
 
 }
